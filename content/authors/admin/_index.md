@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+title: Ashley E. Mullan
 
 # Name pronunciation (optional)
 name_pronunciation: Ashley Mullan
 
 # Full name (for SEO)
-first_name: Ashley E.
+first_name: Ashley
 last_name: Mullan
 
 # Status emoji
@@ -25,9 +25,7 @@ organizations:
     url: https://www.wfu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 👋 Hi, and welcome to my website! I'm **Ashley**, an M.S. student in the [Department of Statistical Sciences](https://stats.wfu.edu/) at Wake Forest University. I currently work with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/) on methods to handle measurement error and their exciting applications to the study of local food access.
-
-I 💖 working with data and talking about sitcoms and romcoms, sometimes even [at the same time](https://drive.google.com/file/d/1bRwA-At8TQ853uAKEudn6Ol84eFd4LJp/view?usp=sharing)!
+bio: 👋 Hi, and welcome to my website! I'm **Ashley**, an M.S. student in the [Department of Statistical Sciences](https://stats.wfu.edu/) at Wake Forest University. I currently work with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/) on methods to handle measurement error and their exciting applications to the study of local food access. I 💖 working with data and talking about sitcoms and romcoms, sometimes even [at the same time](https://drive.google.com/file/d/1bRwA-At8TQ853uAKEudn6Ol84eFd4LJp/view?usp=sharing)!
 
 # Interests to show in About widget
 interests:
