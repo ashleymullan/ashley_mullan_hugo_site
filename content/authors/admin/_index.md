@@ -3,49 +3,56 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ashley Mullan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ashley E.
+last_name: Mullan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✨
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: M.S. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Wake Forest University
+    url: https://www.wfu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 👋 Hi, and welcome to my website! I'm **Ashley**, an M.S. student in the [Department of Statistical Sciences](https://stats.wfu.edu/) at Wake Forest University. I currently work with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/) on methods to handle measurement error and their exciting applications to the study of local food access.
+
+I 💖 working with data and talking about sitcoms and romcoms, sometimes even [at the same time](https://drive.google.com/file/d/1bRwA-At8TQ853uAKEudn6Ol84eFd4LJp/view?usp=sharing)!
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Measurement Error 📏
+  - Missing Data 🔍
+  - Social Determinants of Health 🍎
+  - Karaoke 🎤
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Statistics
+      institution: Wake Forest University
+      year: 2024
+    - course: Graduate Certificate in Data Science
+      institution: Wake Forest University
+      year: 2024
+    - course: BS in Applied Mathematics
+      institution: University of Scranton
+      year: 2022
+    - course: BA in Philosophy
+      institution: University of Scranton
+      year: 2022
 
+<!--
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -85,7 +92,8 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
-
+ -->
+ 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -96,7 +104,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: [https://twitter.com/GeorgeCushen](https://twitter.com/ashley___mullan)
     label: Follow me on Twitter
     display:
       header: true
@@ -120,5 +128,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ashley E. Mullan is an M.S. student in the Wake Forest University Department of Statistical Sciences. Her research interests include measurement error, missing data, and social determinants of health. 
 {style="text-align: justify;"}
