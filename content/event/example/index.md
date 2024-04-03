@@ -1,24 +1,17 @@
 ---
-title: Example Talk
+title: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Access to Healthy Food
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: ENAR Spring Meeting
+event_url: https://www.enar.org/meetings/spring2024/program/preliminary_program.cfm
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Baltimore, MD
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Without access to healthy food, it may be difficult to maintain a healthy lifestyle free from preventable illness. This access can be quantified for residents of a given area by measuring their distance to the nearest grocery store, but there is a tradeoff. We can either consider the more accurate but cost-prohibitive distance measurement that only uses passable roads or the error-prone but easy to obtain straight-line distance calculation. If the better measure is only partially observed, a missing data problem arises. Trying to fit a standard regression model to the relationship between disease prevalence and the error-prone access measures would introduce bias to the parameter estimates. We address this bias by deriving a new maximum likelihood estimator for Poisson regression with an error-prone explanatory variable, where the errors may depend on additional error-free covariates. With simulation studies, we show the consequences of ignoring the error and how the proposed estimator corrects for that bias. Finally, we apply our estimator to data from Forsyth County, North Carolina, where we model the relationship between diabetes cases and access to healthy food.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-03-12T15:45:00Z'
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -28,11 +21,11 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+# featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+# caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
 links:
   - icon: twitter
@@ -56,8 +49,8 @@ slides: example
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+# projects:
+ # - example
 ---
 
 {{% callout note %}}
