@@ -3,7 +3,7 @@
 title: Ashley E. Mullan
 
 # Name pronunciation (optional)
-name_pronunciation: Ashley Mullan
+# name_pronunciation: Ashley Mullan
 
 # Full name (for SEO)
 first_name: Ashley
