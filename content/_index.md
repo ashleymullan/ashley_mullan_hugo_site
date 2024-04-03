@@ -42,6 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  <!--
   - block: skills
     content:
       title: Skills
@@ -125,6 +126,7 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'Object-Oriented Programming in R'
           url: ''
+    -->
     design:
       columns: '2'
   - block: collection
