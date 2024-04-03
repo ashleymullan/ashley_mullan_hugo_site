@@ -60,7 +60,7 @@ social:
     link: "mailto:mullae22@wfu.edu"
   - icon: twitter
     icon_pack: fab
-    link: [https://twitter.com/GeorgeCushen](https://twitter.com/ashley___mullan)
+    link: "https://twitter.com/ashley___mullan"
     label: Follow me on Twitter
     display:
       header: true
