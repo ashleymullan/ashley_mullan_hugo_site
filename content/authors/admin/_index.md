@@ -49,7 +49,6 @@ education:
     - course: BA in Philosophy
       institution: University of Scranton
       year: 2022
-
 <!--
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
