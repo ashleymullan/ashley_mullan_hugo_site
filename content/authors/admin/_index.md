@@ -25,7 +25,7 @@ organizations:
     url: https://www.wfu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 👋 Hi, and welcome to my website! I'm **Ashley**, an M.S. student in the [Department of Statistical Sciences](https://stats.wfu.edu/) at Wake Forest University. I currently work with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/) on methods to handle measurement error and their exciting applications to the study of local food access. I 💖 working with data and talking about sitcoms and romcoms, sometimes even [at the same time](https://drive.google.com/file/d/1bRwA-At8TQ853uAKEudn6Ol84eFd4LJp/view?usp=sharing)!
+bio: Ashley E. Mullan is an M.S. student in the Wake Forest University Department of Statistical Sciences. Her research interests include measurement error, missing data, and social determinants of health. 
 
 # Interests to show in About widget
 interests:
@@ -64,15 +64,15 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ashleymullan
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ashley-mullan-b478b6168/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -84,5 +84,5 @@ social:
 highlight_name: true
 ---
 
-Ashley E. Mullan is an M.S. student in the Wake Forest University Department of Statistical Sciences. Her research interests include measurement error, missing data, and social determinants of health. 
+👋 Hi, and welcome to my website! I'm **Ashley**, an M.S. student in the [Department of Statistical Sciences](https://stats.wfu.edu/) at Wake Forest University. I currently work with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/) on methods to handle measurement error and their exciting applications to the study of local food access. I 💖 working with data and talking about sitcoms and romcoms, sometimes even [at the same time](https://drive.google.com/file/d/1bRwA-At8TQ853uAKEudn6Ol84eFd4LJp/view?usp=sharing)!
 {style="text-align: justify;"}
