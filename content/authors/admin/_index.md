@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: M.S. Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Wake Forest University
-    url: https://www.wfu.edu/
+  - name: Vanderbilt University
+    url: https://www.vanderbilt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ashley E. Mullan is an M.S. student in the Wake Forest University Department of Statistical Sciences. Her research interests include measurement error, missing data, and social determinants of health. 
+bio: Ashley E. Mullan is a Ph.D. student in the Department of Biostatistics at Vanderbilt University Medical Center. Her research interests include measurement error, missing data, and social determinants of health. 
 
 # Interests to show in About widget
 interests:
@@ -84,5 +84,5 @@ social:
 highlight_name: true
 ---
 
-👋 Hi, and welcome to my website! I'm **Ashley**, an M.S. student in the [Department of Statistical Sciences](https://stats.wfu.edu/) at Wake Forest University. I currently work with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/) on methods to handle measurement error and their exciting applications to the study of local food access. I 💖 working with data and talking about sitcoms and romcoms, sometimes even [at the same time](https://drive.google.com/file/d/1bRwA-At8TQ853uAKEudn6Ol84eFd4LJp/view?usp=sharing)!
+👋 Hi, and welcome to my website! I'm **Ashley**, a Ph.D. student in the [Department of Biostatistics](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics) at Vanderbilt University Medical Center. I recently earned my master's degree from the [Department of Statistical Sciences](https://stats.wfu.edu/) at Wake Forest University, where I worked with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/) on methods to handle measurement error and their exciting applications to the study of local food access. I 💖 working with data and talking about sitcoms and romcoms, sometimes even [at the same time](https://drive.google.com/file/d/1bRwA-At8TQ853uAKEudn6Ol84eFd4LJp/view?usp=sharing)!
 {style="text-align: justify;"}
