@@ -32,6 +32,7 @@ interests:
   - Measurement Error 📏
   - Missing Data 🔍
   - Social Determinants of Health 🍎
+  - R Package Development 🖥️
   - Karaoke 🎤
 
 # Education to show in About widget
