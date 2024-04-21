@@ -72,7 +72,7 @@ sections:
   - block: portfolio
     id: software
     content:
-      title: Projects
+      title: Software
       filters:
         folders:
           - project
