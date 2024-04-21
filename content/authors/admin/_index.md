@@ -38,6 +38,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Biostatistics
+      institution: Vanderbilt University
+      year: Expected 2029
     - course: MS in Statistics
       institution: Wake Forest University
       year: 2024
