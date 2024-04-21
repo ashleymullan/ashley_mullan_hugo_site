@@ -152,7 +152,7 @@ sections:
       text: |-
         I 💖 chatting about statistical research and pedagogy! If you share any of my interests, I'd love to connect.
       # Contact (add or remove contact options as necessary)
-      email: mullae22@wfu.edu
+      email: ashley.e.mullan@vanderbilt.edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
@@ -184,9 +184,9 @@ sections:
        #   name: Zoom Me
        #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
-      form:
+      # form:
         provider: netlify
         formspree:
           id:
