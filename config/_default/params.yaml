@@ -9,6 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
+  color: purple
   font_size: L
 
 # SEO
