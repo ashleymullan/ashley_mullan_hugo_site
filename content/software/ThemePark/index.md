@@ -17,8 +17,5 @@ links:
     icon_pack: fab
     name: Link to Repository
     url: https://github.com/MatthewBJane/ThemePark
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+
 ---
