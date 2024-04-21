@@ -1,14 +1,14 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: ThemePark
+summary: R package maintained by Matthew B. Jané that extends the **ggplot** package with plot themes inspired by various works in pop culture.
 tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
+  - Contributor
+date: "2024-04-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://github.com/MatthewBJane/ThemePark
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: My theme was inspired by Taylor Swift's 2024 album *The Tortured Poets Department*.
   focal_point: Smart
 ---
