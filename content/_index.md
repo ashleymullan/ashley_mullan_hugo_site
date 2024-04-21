@@ -70,7 +70,7 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: software
     content:
       title: Projects
       filters:
