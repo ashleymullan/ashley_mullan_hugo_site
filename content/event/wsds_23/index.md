@@ -2,7 +2,7 @@
 title: Rate This Interruption: Using Interrupted Time Series Techniques to Analyze Popular Television Couples and Episode Ratings
 
 event: Women in Statistics and Data Science Conference - Contributed Poster
-event_url: https://ww3.aievolution.com/AMSTATevents/index.cfm?do=ev.viewEv&ev=2380
+event_url: 'https://ww3.aievolution.com/AMSTATevents/index.cfm?do=ev.viewEv&ev=2380'
 
 location: Bellevue, WA
 
