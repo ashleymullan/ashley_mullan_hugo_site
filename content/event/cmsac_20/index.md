@@ -1,5 +1,5 @@
 ---
-title: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Access to Healthy Food
+title: CMU FIX ME
 
 event: ENAR Spring Meeting
 event_url: https://www.enar.org/meetings/spring2024/program/preliminary_program.cfm
@@ -15,7 +15,7 @@ date: '2024-03-12T15:45:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2020-10-25T12:40:00Z'
 
 authors: []
 tags: []
