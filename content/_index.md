@@ -150,7 +150,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I 💖 connecting with people who 💖 (bio)statistics, data science, writing R packages, karaoke, and all things ggplot. Let's chat!
+        I 💖 connecting with people who 💖 (bio)statistics, data science, writing R packages, sneaking TV references into statistics, all things ggplot, and karaoke. Let's chat!
       # Contact (add or remove contact options as necessary)
       email: ashley.e.mullan@vanderbilt.edu
       # phone: 888 888 88 88
