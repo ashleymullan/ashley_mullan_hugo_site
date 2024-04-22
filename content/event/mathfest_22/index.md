@@ -1,5 +1,5 @@
 ---
-title: Music Feature Classification: Using Techniques of Machine Learning to Detect Genre
+title: "Music Feature Classification: Using Techniques of Machine Learning to Detect Genre"
 event: MAA MathFest 2022 - Contributed Poster
 event_url: https://maa.org/sites/default/files/pdf/mathfest/2022/StudentPosterAbstracts.pdf
 
