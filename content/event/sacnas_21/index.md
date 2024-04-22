@@ -1,16 +1,16 @@
 ---
 title: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Access to Healthy Food
 
-event: ENAR Spring Meeting
-event_url: https://www.enar.org/meetings/spring2024/program/preliminary_program.cfm
+event: SACNAS nDiSTEM Conference - Contributed Poster
+event_url: https://www.sacnas.org/2021-sacnas-ndistem-agenda-at-a-glance
 
-location: Baltimore, MD
+location: Virtual
 
-summary: Without access to healthy food, it may be difficult to maintain a healthy lifestyle free from preventable illness. This access can be quantified for residents of a given area by measuring their distance to the nearest grocery store, but there is a tradeoff. We can either consider the more accurate but cost-prohibitive distance measurement that only uses passable roads or the error-prone but easy to obtain straight-line distance calculation. If the better measure is only partially observed, a missing data problem arises. Trying to fit a standard regression model to the relationship between disease prevalence and the error-prone access measures would introduce bias to the parameter estimates. We address this bias by deriving a new maximum likelihood estimator for Poisson regression with an error-prone explanatory variable, where the errors may depend on additional error-free covariates. With simulation studies, we show the consequences of ignoring the error and how the proposed estimator corrects for that bias. Finally, we apply our estimator to data from Forsyth County, North Carolina, where we model the relationship between diabetes cases and access to healthy food.
+summary: ADD ME
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-12T15:45:00Z'
+date: '2021-10'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -28,13 +28,13 @@ tags: []
 #  focal_point: Right
 
 links:
-  - icon: twitter
+  # - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/ashley___mullan
 url_code: ''
-url_pdf: ''
-url_slides: 'https://drive.google.com/file/d/15DsLbAocr2M5NbAco--F-wF6fiGalV2v/view?usp=sharing'
+url_pdf: https://drive.google.com/file/d/1gBWy_cDklQGZ2wcI1n0JZZoUuYfInlML/view
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
