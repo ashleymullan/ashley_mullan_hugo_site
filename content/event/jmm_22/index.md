@@ -1,16 +1,16 @@
 ---
-title: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Access to Healthy Food
+title: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning
 
-event: ENAR Spring Meeting
-event_url: https://www.enar.org/meetings/spring2024/program/preliminary_program.cfm
+event: Joint Mathematics Meetings 2022 - Contributed Poster
+event_url: https://jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_friday.html
 
-location: Baltimore, MD
+location: Virtual
 
-summary: Without access to healthy food, it may be difficult to maintain a healthy lifestyle free from preventable illness. This access can be quantified for residents of a given area by measuring their distance to the nearest grocery store, but there is a tradeoff. We can either consider the more accurate but cost-prohibitive distance measurement that only uses passable roads or the error-prone but easy to obtain straight-line distance calculation. If the better measure is only partially observed, a missing data problem arises. Trying to fit a standard regression model to the relationship between disease prevalence and the error-prone access measures would introduce bias to the parameter estimates. We address this bias by deriving a new maximum likelihood estimator for Poisson regression with an error-prone explanatory variable, where the errors may depend on additional error-free covariates. With simulation studies, we show the consequences of ignoring the error and how the proposed estimator corrects for that bias. Finally, we apply our estimator to data from Forsyth County, North Carolina, where we model the relationship between diabetes cases and access to healthy food.
+summary: Deal or No Deal, a game show that features nine rounds of high stakes player decisions, aired in the United States beginning in 2005. Utility theory helps to explain the rationale of the players at each stage of the game, as well as derive an optimal strategy for maximizing one’s winnings. Using empirical data compiled by Post et al. (2008) and a simulation of 1000 players, one can develop models to predict what amount of money the banker will offer at the end of each round and in what conditions a player will take this offer, the deal. While other supervised learning algorithms were explored, regression and neural networks yielded accuracies of at least 80% at each stage of testing. A deep neural network yielding a coefficient of determination of 0.95 and comparatively low mean error was chosen as the best for predicting the banker offer. To further explore other avenues of intelligent gameplay, reinforcement learning techniques were used to implement a deep Q-network to play the game and be compared to simulated contestants. A path-dependent utility function was implemented to describe empirical and simulated player decisions, and players chose the option with higher utility over 85% of the time. Additional improvements were also implemented; such as nesting the utility function in models of stochastic choice, like the tremble model, to account for errors in player judgement. This report will summarize the results of the CC-REU NSF summer REU experience (DMS-2050692) where these questions were explored.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-12T15:45:00Z'
+date: '2022-04-08T10:30:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -31,10 +31,10 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/ashley___mullan
 url_code: ''
-url_pdf: ''
-url_slides: 'https://drive.google.com/file/d/15DsLbAocr2M5NbAco--F-wF6fiGalV2v/view?usp=sharing'
+url_pdf: 'https://drive.google.com/file/d/1gBWy_cDklQGZ2wcI1n0JZZoUuYfInlML/view'
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
