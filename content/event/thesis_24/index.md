@@ -29,9 +29,9 @@ tags: []
 
 links:
 #  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
 # url_code: ''
 # url_pdf: ''
 url_slides: https://drive.google.com/file/d/1sc6r38JTv37dQ4RFLifeN0bEfekIt_de/view?usp=drive_link
