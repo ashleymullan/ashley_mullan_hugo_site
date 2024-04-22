@@ -10,7 +10,7 @@ summary: Without access to healthy food, it may be difficult to maintain a healt
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-12T15:45:00Z'
+date: '2020-10-25T12:40:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
