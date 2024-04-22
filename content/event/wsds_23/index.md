@@ -1,5 +1,5 @@
 ---
-title: 'Rate This Interruption: Using Interrupted Time Series Techniques to Analyze Popular Television Couples and Episode Ratings'
+title: Rate This Interruption
 
 event: Women in Statistics and Data Science Conference - Contributed Poster
 event_url: 'https://ww3.aievolution.com/AMSTATevents/index.cfm?do=ev.viewEv&ev=2380'
