@@ -1,5 +1,5 @@
 ---
-title: Rate This Interruption: Using Interrupted Time Series Techniques to Analyze Popular Television Couples and Episode Ratings
+title: RTI
 event: Master's Thesis Defense
 event_url: https://drive.google.com/file/d/1lqoQHtPnK5qQ0uSwKb4Zquwpv59vnaPT/view?usp=sharing
 
