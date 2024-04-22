@@ -1,6 +1,6 @@
 ---
 title: POSSUM
-summary: R package providing various functionality for Poisson regression analysis under measurement error.
+summary: R package maintained by Sarah Lotspeich providing various functionality for Poisson regression analysis under measurement error.
 tags:
   - Contributor
 date: '2024-04-21T00:00:00Z'
