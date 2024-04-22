@@ -31,7 +31,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/ashley___mullan
 url_code: ''
 url_pdf: ''
 url_slides: 'https://drive.google.com/file/d/15DsLbAocr2M5NbAco--F-wF6fiGalV2v/view?usp=sharing'
