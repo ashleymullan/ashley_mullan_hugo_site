@@ -28,10 +28,10 @@ tags: []
 #  focal_point: Right
 
 links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/ashley___mullan
 # url_code: ''
 # url_pdf: ''
 url_slides: https://drive.google.com/file/d/1sc6r38JTv37dQ4RFLifeN0bEfekIt_de/view?usp=drive_link
