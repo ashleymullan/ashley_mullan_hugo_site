@@ -1,5 +1,5 @@
 ---
-title: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Access to Healthy Food
+title: Game Show
 
 event: SACNAS nDiSTEM Conference - Contributed Poster
 event_url: https://www.sacnas.org/2021-sacnas-ndistem-agenda-at-a-glance
@@ -10,7 +10,7 @@ summary: ADD ME
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2021-10'
+date: '2021-10-18T01:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
