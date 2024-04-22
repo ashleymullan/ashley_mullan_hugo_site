@@ -1,7 +1,7 @@
 ---
 title: RTI
-event: Master's Thesis Defense
-event_url: https://drive.google.com/file/d/1lqoQHtPnK5qQ0uSwKb4Zquwpv59vnaPT/view?usp=sharing
+event: Women in Statistics and Data Science Conference 2023 - Contributed Poster
+event_url: https://ww3.aievolution.com/AMSTATevents/index.cfm?do=ev.viewEv&ev=2380
 
 location: Winston-Salem, NC
 
