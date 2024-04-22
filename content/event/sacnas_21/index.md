@@ -1,12 +1,12 @@
 ---
-title: Game Show
+title: Game Show Modeling with Utility Theory and Machine Learning
 
 event: SACNAS nDiSTEM Conference - Contributed Poster
 event_url: https://www.sacnas.org/2021-sacnas-ndistem-agenda-at-a-glance
 
 location: Virtual
 
-summary: ADD ME
+summary: This poster explores banker and player behavior for the popular game show *Deal or No Deal*. We use neural networks to predict the monetary offers from the bank at each round, logistic regression to predict a player's choice to take or reject the deal, utility theory to evaluate each deal, and reinforcement learning to simulate gameplay.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
