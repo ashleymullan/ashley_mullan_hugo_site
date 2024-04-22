@@ -9,7 +9,7 @@ summary: Many
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-04-08T10:30:00Z'
+date: '2023-10-26T07:30:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -32,8 +32,8 @@ links:
     name: Follow
     url: https://twitter.com/ashley___mullan
 # url_code: ''
-# url_pdf: ''
-url_slides: https://drive.google.com/file/d/1sc6r38JTv37dQ4RFLifeN0bEfekIt_de/view?usp=drive_link
+# url_pdf: https://drive.google.com/file/d/1bRwA-At8TQ853uAKEudn6Ol84eFd4LJp/view?usp=drive_link
+# url_slides: 
 # url_video: ''
 
 # Markdown Slides (optional).
