@@ -1,5 +1,5 @@
 ---
-title: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning
+title: "Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning"
 
 event: Joint Mathematics Meetings 2022 - Contributed Poster
 event_url: https://jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_friday.html
