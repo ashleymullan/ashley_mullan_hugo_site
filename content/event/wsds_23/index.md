@@ -42,10 +42,10 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/ashley___mullan
+    url: 'https://twitter.com/ashley___mullan'
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/file/d/1bRwA-At8TQ853uAKEudn6Ol84eFd4LJp/view?usp=drive_link
+url_slides: 'https://drive.google.com/file/d/1bRwA-At8TQ853uAKEudn6Ol84eFd4LJp/view?usp=drive_link'
 url_video: ''
 
 # Markdown Slides (optional).
