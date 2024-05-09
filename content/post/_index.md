@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Blog
 cms_exclude: true
 
 # View.
@@ -10,6 +10,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ''
-  image: ''
+  caption: 'Do it for the plot!'
+  image: 'blog_logo.png'
 ---
