@@ -38,11 +38,6 @@ categories:
   - General
 ---
 
-```r
-library(ggplot)
-library(emojifont)
-```
-
 👋 Hi, I'm Ashley! I'm so excited to launch this blog, *Do It For the Plot*. 
 
 ## What's with the title?
