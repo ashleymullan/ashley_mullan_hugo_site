@@ -24,7 +24,6 @@ featured: true
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'For those that are new here, here's my mug shot.'
-  focal_point: ''
   placement: 2
   preview_only: false
 
