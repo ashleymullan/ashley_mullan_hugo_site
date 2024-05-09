@@ -20,13 +20,6 @@ draft: false
 # Show this page in the Featured widget?
 featured: true
 
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'For those that are new here, here's my mug shot.'
-  placement: 2
-  preview_only: false
-
 authors:
   - admin
 
